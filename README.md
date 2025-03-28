@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ibrerdogan
-- 👀 I’m interested in IOS development
-- 🌱 I’m currently learning swift
+
 
 
 <!---
